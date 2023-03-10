@@ -1,6 +1,8 @@
 # MiniGit
 ## A simple version of Git.
 
+MiniGit is a Java based version control system with most of the funcitonality of a local Git repository.
+
 The development of MiniGit was a personal endeavor aimed at deepening my understanding of Java programming, version control systems, and software design. This simple yet comprehensive version control system was built for educational purposes and provided a valuable opportunity for me to reinforce my grasp of OOP principles, design patterns and data structures. I thoroughly enjoyed working on this project and have lots of ideas for improvements, and new commands I would like to support. 
 
  ## Supported Commands: 
